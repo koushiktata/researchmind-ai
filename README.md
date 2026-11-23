@@ -552,10 +552,3 @@ Supports:
 - [Google Gemini](https://ai.google.dev/) & [OpenAI](https://openai.com/) - Cloud APIs
 
 ---
-
-## Contact
-
-- **GitHub**: [tarun7r](https://github.com/tarun7r)
-- **LinkedIn**: [Tarun Sai Goddu](https://www.linkedin.com/in/tarunsaigoddu/)
-- **Hugging Face**: [tarun7r](https://huggingface.co/tarun7r)
-- **Email**: tarunsaiaa@gmail.com
